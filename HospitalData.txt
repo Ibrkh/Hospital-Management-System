@@ -1,0 +1,680 @@
+Patient Beds availiable in Ward WR190111|Accident/Emergency (AE Unit): 10
+Patient Beds availiable in Ward WR190112|Accident/Emergency (AE Unit): 12
+Patient Beds availiable in Ward WR190121|Cardiology (CARDIO Unit): 12
+Patient Beds availiable in Ward WR190122|Cardiology (CARDIO Unit): 11
+Patient Beds availiable in Ward WR190131|Intensive/Critical Care (CC/IC Unit): 12
+Patient Beds availiable in Ward WR190132|Intensive/Critical Care (CC/IC Unit): 12
+Patient Beds availiable in Ward WR190141|Gynecology (GYN Unit): 12
+Patient Beds availiable in Ward WR190142|Gynecology (GYN Unit): 11
+Patient Beds availiable in Ward WR190151|Infection Control (INFECT Unit): 10
+Patient Beds availiable in Ward WR190152|Infection Control (INFECT Unit): 12
+Patient Beds availiable in Ward WR190161|Maternity (MAT Unit): 12
+Patient Beds availiable in Ward WR190171|Nuerology (NUR Unit): 12
+Patient Beds availiable in Ward WR190172|Nuerology (NUR Unit): 12
+Patient Beds availiable in Ward WR190182|Intensive Surgery (IS Unit): 12
+Patient Beds availiable in Ward WR190181|Intensive Surgery (IS Unit): 11
+Hospital Shifa International Information
+
+Hospital Name: Shifa International
+Hospital ID: K190312I190657
+Hospital Location: Sector H-8, Islamabad
+Hospital Building Floors: 10
+Number of WardRooms: 85
+Hospital Ratings: 4.2
+Price for one capacity Patient Bed: 8645.75
+
+
+
+
+
+
+
+
+Ward Room  Accident/Emergency (AE Unit) Information
+
+Ward Name: Accident/Emergency (AE Unit)
+Ward ID: WR190111
+Status: Beds Availiable
+Ward Capacity: 2
+Ward Type: Male-Ward
+
+
+
+
+
+
+
+
+Ward Room  Accident/Emergency (AE Unit) Information
+
+Ward Name: Accident/Emergency (AE Unit)
+Ward ID: WR190112
+Status: Beds Availiable
+Ward Capacity: 0
+Ward Type: Female-Ward
+
+
+
+
+
+
+
+
+Ward Room  Cardiology (CARDIO Unit) Information
+
+Ward Name: Cardiology (CARDIO Unit)
+Ward ID: WR190121
+Status: Beds Availiable
+Ward Capacity: 0
+Ward Type: Male-Ward
+
+
+
+
+
+
+
+
+Ward Room  Cardiology (CARDIO Unit) Information
+
+Ward Name: Cardiology (CARDIO Unit)
+Ward ID: WR190122
+Status: Beds Availiable
+Ward Capacity: 1
+Ward Type: Female-Ward
+
+
+
+
+
+
+
+
+Ward Room  Intensive/Critical Care (CC/IC Unit) Information
+
+Ward Name: Intensive/Critical Care (CC/IC Unit)
+Ward ID: WR190131
+Status: Beds Availiable
+Ward Capacity: 0
+Ward Type: Male-Ward
+
+
+
+
+
+
+
+
+Ward Room  Intensive/Critical Care (CC/IC Unit) Information
+
+Ward Name: Intensive/Critical Care (CC/IC Unit)
+Ward ID: WR190132
+Status: Beds Availiable
+Ward Capacity: 0
+Ward Type: Female-Ward
+
+
+
+
+
+
+
+
+Ward Room  Gynecology (GYN Unit) Information
+
+Ward Name: Gynecology (GYN Unit)
+Ward ID: WR190141
+Status: Beds Availiable
+Ward Capacity: 0
+Ward Type: Male-Ward
+
+
+
+
+
+
+
+
+Ward Room  Gynecology (GYN Unit) Information
+
+Ward Name: Gynecology (GYN Unit)
+Ward ID: WR190142
+Status: Beds Availiable
+Ward Capacity: 1
+Ward Type: Female-Ward
+
+
+
+
+
+
+
+
+Ward Room  Infection Control (INFECT Unit) Information
+
+Ward Name: Infection Control (INFECT Unit)
+Ward ID: WR190151
+Status: Beds Availiable
+Ward Capacity: 2
+Ward Type: Male-Ward
+
+
+
+
+
+
+
+
+Ward Room  Infection Control (INFECT Unit) Information
+
+Ward Name: Infection Control (INFECT Unit)
+Ward ID: WR190152
+Status: Beds Availiable
+Ward Capacity: 0
+Ward Type: Femle-Ward
+
+
+
+
+
+
+
+
+Ward Room  Maternity (MAT Unit) Information
+
+Ward Name: Maternity (MAT Unit)
+Ward ID: WR190161
+Status: Beds Availiable
+Ward Capacity: 0
+Ward Type: Female-Ward
+
+
+
+
+
+
+
+
+Ward Room  Nuerology (NUR Unit) Information
+
+Ward Name: Nuerology (NUR Unit)
+Ward ID: WR190171
+Status: Beds Availiable
+Ward Capacity: 0
+Ward Type: Male-Ward
+
+
+
+
+
+
+
+
+Ward Room  Nuerology (NUR Unit) Information
+
+Ward Name: Nuerology (NUR Unit)
+Ward ID: WR190172
+Status: Beds Availiable
+Ward Capacity: 0
+Ward Type: Female-Ward
+
+
+
+
+
+
+
+
+Ward Room  Intensive Surgery (IS Unit) Information
+
+Ward Name: Intensive Surgery (IS Unit)
+Ward ID: WR190182
+Status: Beds Availiable
+Ward Capacity: 0
+Ward Type: Femle-Ward
+
+
+
+
+
+
+
+
+Ward Room  Intensive Surgery (IS Unit) Information
+
+Ward Name: Intensive Surgery (IS Unit)
+Ward ID: WR190181
+Status: Beds Availiable
+Ward Capacity: 1
+Ward Type: Male-Ward
+
+
+
+
+
+
+
+
+Doctor  Adnan Tariq Information
+
+Doctor Name: Adnan Tariq
+Doctor ID: D1909812
+Age|Gender: 42|Male
+Contact Number: 03459200195
+Designation: Allergist/Immunologist
+Status: Availiable
+
+
+
+
+
+
+
+
+Doctor  Mubashir Luqman Information
+
+Doctor Name: Mubashir Luqman
+Doctor ID: D1909430
+Age|Gender: 53|Male
+Contact Number: 033119201835
+Designation: Cardiologist
+Status: Availiable
+
+
+
+
+
+
+
+
+Doctor  Zohaib Adnan Information
+
+Doctor Name: Zohaib Adnan
+Doctor ID: D195911
+Age|Gender: 38|Male
+Contact Number: 03159272301
+Designation: General Surgeon
+Status: Availiable
+
+
+
+
+
+
+
+
+Doctor  Javeria Imtiaz Information
+
+Doctor Name: Javeria Imtiaz
+Doctor ID: D190225
+Age|Gender: 32|Feale
+Contact Number: 03025910166
+Designation: Dermatologist
+Status: Availiable
+
+
+
+
+
+
+
+
+Doctor  Kasif Munir Information
+
+Doctor Name: Kasif Munir
+Doctor ID: D199332
+Age|Gender: 28|Male
+Contact Number: 03422610145
+Designation: Hematologist
+Status: Availiable
+
+
+
+
+
+
+
+
+Doctor  Atif Jilani Information
+
+Doctor Name: Atif Jilani
+Doctor ID: D190334
+Age|Gender: 46|Male
+Contact Number: 03320278345
+Designation: Plastic Surgeon
+Status: Availiable
+
+
+
+
+
+
+
+
+Doctor  Rohail Gulbaz Information
+
+Doctor Name: Rohail Gulbaz
+Doctor ID: D190099
+Age|Gender: 34|Male
+Contact Number: 03342619145
+Designation: Neurologist
+Status: Availiable
+
+
+
+
+
+
+
+
+Doctor  Sara Afzal Information
+
+Doctor Name: Sara Afzal
+Doctor ID: D199332
+Age|Gender: 28|Female
+Contact Number: 03345013143
+Designation: Gynecologist
+Status: Availiable
+
+
+
+
+
+
+
+
+Doctor  Subhan Ullah Information
+
+Doctor Name: Subhan Ullah
+Doctor ID: D191556
+Age|Gender: 52|Male
+Contact Number: 03345098233
+Designation: Physiatrist
+Status: Availiable
+
+
+
+
+
+
+
+
+Doctor  Fatima Farooq Information
+
+Doctor Name: Fatima Farooq
+Doctor ID: D190643
+Age|Gender: 24|Female
+Contact Number: 03345073143
+Designation: Urologist
+Status: Availiable
+
+
+
+
+
+
+
+
+Patient Ibrahim Khan Information
+
+Patient Name: Ibrahim Khan
+Patient ID: k190312
+Age|Gender: 22|Male
+Contact Number: 03162533800
+Condition: Normal
+Status: In-Charge
+Patient WardID: WR190111
+Doctor Assigned: Adnan Tariq
+
+
+
+
+
+
+
+
+Patient Hassan Jamil Information
+
+Patient Name: Hassan Jamil
+Patient ID: k190229
+Age|Gender: 21|Male
+Contact Number: 03350749821
+Condition: Critical
+Status: In-Charge
+Patient WardID: WR190181
+Doctor Assigned: Zohaib Adnan
+
+
+
+
+
+
+
+
+Patient Fajr Naveed Information
+
+Patient Name: Fajr Naveed
+Patient ID: i190422
+Age|Gender: 20|Female
+Contact Number: 032976123081
+Condition: Normal
+Status: In-Charge
+Patient WardID: WR190122
+Doctor Assigned: Atif Jilani
+
+
+
+
+
+
+
+
+Patient Mahnoor Muratza Information
+
+Patient Name: Mahnoor Muratza
+Patient ID: k190501
+Age|Gender: 21|Female
+Contact Number: 033496123115
+Condition: Critical
+Status: In-Charge
+Patient WardID: WR190142
+Doctor Assigned: Sara Afzal
+
+
+
+
+
+
+
+
+Patient Khizr Hassan Information
+
+Patient Name: Khizr Hassan
+Patient ID: k190455
+Age|Gender: 21|Male
+Contact Number: 033362338123
+Condition: Normal
+Status: In-Charge
+Patient WardID: WR190151
+Doctor Assigned: Kshif Munir
+
+
+
+
+
+
+
+
+Patient Hamza Adeel Information
+
+Patient Name: Hamza Adeel
+Patient ID: k190714
+Age|Gender: 21|Male
+Contact Number: 03365512356
+Condition: Critical
+Status: In-Charge
+Patient WardID: WR190111
+Doctor Assigned: Rohail Gulbaz
+
+
+
+
+
+
+
+
+Patient Sarim Sohail Information
+
+Patient Name: Sarim Sohail
+Patient ID: k195881
+Age|Gender: 21|Male
+Contact Number: 033358712091
+Condition: Normal
+Status: In-Charge
+Patient WardID: WR190151
+Doctor Assigned: Subhan Ullah
+
+
+
+
+
+
+
+
+Patient Ibrahim Khan Information
+
+Patient Name: Ibrahim Khan
+Patient ID: k190312
+Age|Gender: 22|Male
+Contact Number: 03162533800
+Condition: Normal
+Status: In-Charge
+Patient WardID: WR190111
+Doctor Assigned: Adnan Tariq
+
+
+
+
+
+
+
+
+Patient Hassan Jamil Information
+
+Patient Name: Hassan Jamil
+Patient ID: k190229
+Age|Gender: 21|Male
+Contact Number: 03350749821
+Condition: Critical
+Status: In-Charge
+Patient WardID: WR190181
+Doctor Assigned: Zohaib Adnan
+
+
+
+
+
+
+
+
+Patient Fajr Naveed Information
+
+Patient Name: Fajr Naveed
+Patient ID: i190422
+Age|Gender: 20|Female
+Contact Number: 032976123081
+Condition: Normal
+Status: In-Charge
+Patient WardID: WR190122
+Doctor Assigned: Atif Jilani
+
+
+
+
+
+
+
+
+Patient Mahnoor Muratza Information
+
+Patient Name: Mahnoor Muratza
+Patient ID: k190501
+Age|Gender: 21|Female
+Contact Number: 033496123115
+Condition: Critical
+Status: In-Charge
+Patient WardID: WR190142
+Doctor Assigned: Sara Afzal
+
+
+
+
+
+
+
+
+Patient Khizr Hassan Information
+
+Patient Name: Khizr Hassan
+Patient ID: k190455
+Age|Gender: 21|Male
+Contact Number: 033362338123
+Condition: Normal
+Status: In-Charge
+Patient WardID: WR190151
+Doctor Assigned: Kshif Munir
+
+
+
+
+
+
+
+
+Patient Hamza Adeel Information
+
+Patient Name: Hamza Adeel
+Patient ID: k190714
+Age|Gender: 21|Male
+Contact Number: 03365512356
+Condition: Critical
+Status: In-Charge
+Patient WardID: WR190111
+Doctor Assigned: Rohail Gulbaz
+
+
+
+
+
+
+
+
+Patient Sarim Sohail Information
+
+Patient Name: Sarim Sohail
+Patient ID: k195881
+Age|Gender: 21|Male
+Contact Number: 033358712091
+Condition: Normal
+Status: In-Charge
+Patient WardID: WR190151
+Doctor Assigned: Subhan Ullah
+
+
+
+
+Patients in Ward WR190111|Accident/Emergency (AE Unit): 2
+Patients in Ward WR190112|Accident/Emergency (AE Unit): 0
+Patients in Ward WR190121|Cardiology (CARDIO Unit): 0
+Patients in Ward WR190122|Cardiology (CARDIO Unit): 1
+Patients in Ward WR190131|Intensive/Critical Care (CC/IC Unit): 0
+Patients in Ward WR190132|Intensive/Critical Care (CC/IC Unit): 0
+Patients in Ward WR190141|Gynecology (GYN Unit): 0
+Patients in Ward WR190142|Gynecology (GYN Unit): 1
+Patients in Ward WR190151|Infection Control (INFECT Unit): 2
+Patients in Ward WR190152|Infection Control (INFECT Unit): 0
+Patients in Ward WR190161|Maternity (MAT Unit): 0
+Patients in Ward WR190171|Nuerology (NUR Unit): 0
+Patients in Ward WR190172|Nuerology (NUR Unit): 0
+Patients in Ward WR190182|Intensive Surgery (IS Unit): 0
+Patients in Ward WR190181|Intensive Surgery (IS Unit): 1
